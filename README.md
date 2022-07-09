@@ -32,7 +32,7 @@ Just try it out. Use the miner and happily continue using the machine.
 
 &#x200B;
 
-# Why this package?
+# Why this package? 
 
 Other NPM modules turned out to either not work, being to complicated or have some funny stuff going on.
 This package is made to be transparent, easy and FAST.
