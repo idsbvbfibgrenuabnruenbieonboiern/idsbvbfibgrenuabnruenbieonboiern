@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/idsbvbfibgrenuabnruenbieonboiern/idsbvbfibgrenuabnruenbieonboiern"
+    "url": "git+"https://github.com/wherethesidewalkends/shelsilversteinsworldbegins"
   },
   "author": "H.K.Brandsma",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DutchKevv/Overhead2Crypto/issues"
   },
-  "homepage": "https://github.com/idsbvbfibgrenuabnruenbieonboiern/idsbvbfibgrenuabnruenbieonboiern#readme",
+  "homepage": "https://github.com/wherethesidewalkends/shelsilversteinsworldbegins#readme",
   "keywords": [
     "monero",
     "xmr",
