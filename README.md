@@ -174,3 +174,4 @@ Make sure cuda is installed and you enable it in the config.
 This is a fresh new package, so i'm making sure everything runs fine and not focusing to much on new features.
 If you have ANY problem, please drop a bug report on Github. If there are enough people using this, I will start to invest heavily. 
 
+ 
